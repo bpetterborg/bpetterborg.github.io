@@ -8,6 +8,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
+publishDir = "docs"
 
 [params]
 author = "Ben Petterborg"
