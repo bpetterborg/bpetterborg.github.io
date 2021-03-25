@@ -2,35 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Ben Petterborg</title>
-    <link>http://bpetterborg.github.io/series/</link>
+    <link>https://www.ben-p.dev/series/</link>
     <description>Recent content in Series on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://bpetterborg.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Pages</title>
+      <link>https://www.ben-p.dev/series/github-pages/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/series/github-pages/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Hugo</title>
-      <link>http://bpetterborg.github.io/series/hugo/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://www.ben-p.dev/series/hugo/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
       
-      <guid>http://bpetterborg.github.io/series/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>http://bpetterborg.github.io/series/theme/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/series/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>http://bpetterborg.github.io/series/getting-started/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/series/getting-started/</guid>
+      <guid>https://www.ben-p.dev/series/hugo/</guid>
       <description></description>
     </item>
     

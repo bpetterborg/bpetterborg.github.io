@@ -2,50 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ben Petterborg</title>
-    <link>http://bpetterborg.github.io/</link>
+    <link>https://www.ben-p.dev/</link>
     <description>Recent content on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://bpetterborg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo coder wiki</title>
-      <link>http://bpetterborg.github.io/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Host Hugo w/ Github Pages</title>
+      <link>https://www.ben-p.dev/posts/gh_pages_hugo/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
       
-      <guid>http://bpetterborg.github.io/posts/hugo-coder-wiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Demo</title>
-      <link>http://bpetterborg.github.io/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/posts/theme-demo/</guid>
-      <description>Style Demo    h1 Heading    h2 Heading    h3 Heading    h4 Heading    h5 Heading    h6 Heading     This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://bpetterborg.github.io/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Table of Contents     Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static    Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <guid>https://www.ben-p.dev/posts/gh_pages_hugo/</guid>
+      <description>Table of Contents     Introduction Getting Started Prepare your environment Building your site  Introduction    I had a bit of difficulty setting up Hugo to work with Github Pages, so I decided to document how I was able to make it work.
+Getting Started    This guide assumes you already have a Hugo site. If you do not, you can learn how to here.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://bpetterborg.github.io/about/</link>
+      <link>https://www.ben-p.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bpetterborg.github.io/about/</guid>
+      <guid>https://www.ben-p.dev/about/</guid>
       <description>I&amp;rsquo;m a high school student studying software development, data science, systems administration, and other related stuff.
 What I Do:
  Build, setup, and configure servers Install and configure firewalls Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
@@ -54,38 +31,38 @@ Thanks for reading!</description>
     
     <item>
       <title>Contact</title>
-      <link>http://bpetterborg.github.io/contact/</link>
+      <link>https://www.ben-p.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bpetterborg.github.io/contact/</guid>
+      <guid>https://www.ben-p.dev/contact/</guid>
       <description>Email - ben.petterborg@gmail.com</description>
     </item>
     
     <item>
       <title>First snippet</title>
-      <link>http://bpetterborg.github.io/snippets/first/</link>
+      <link>https://www.ben-p.dev/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bpetterborg.github.io/snippets/first/</guid>
+      <guid>https://www.ben-p.dev/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://bpetterborg.github.io/projects/</link>
+      <link>https://www.ben-p.dev/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bpetterborg.github.io/projects/</guid>
+      <guid>https://www.ben-p.dev/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>http://bpetterborg.github.io/snippets/second/</link>
+      <link>https://www.ben-p.dev/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bpetterborg.github.io/snippets/second/</guid>
+      <guid>https://www.ben-p.dev/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>

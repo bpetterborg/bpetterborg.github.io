@@ -1,74 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>http://bpetterborg.github.io/authors/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/categories/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/categories/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/tags/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/authors/external-link-test/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/series/hugo/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/tags/hugo/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/posts/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/series/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/tags/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/tags/themes/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/authors/jane-smith/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/authors/john-doe/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/series/theme/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/series/getting-started/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bpetterborg.github.io/about/</loc>
-  </url><url>
-    <loc>http://bpetterborg.github.io/contact/</loc>
-  </url><url>
-    <loc>http://bpetterborg.github.io/snippets/first/</loc>
-  </url><url>
-    <loc>http://bpetterborg.github.io/projects/</loc>
-  </url><url>
-    <loc>http://bpetterborg.github.io/snippets/second/</loc>
-  </url><url>
-    <loc>http://bpetterborg.github.io/snippets/</loc>
+    <loc>https://www.ben-p.dev/authors/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
   </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/authors/ben-petterborg/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/series/github-pages/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/posts/gh_pages_hugo/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/series/hugo/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/posts/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/series/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/tags/</loc>
+  </url>
+  
 </urlset>

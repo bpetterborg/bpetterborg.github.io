@@ -2,35 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Ben Petterborg</title>
-    <link>http://bpetterborg.github.io/authors/</link>
+    <link>https://www.ben-p.dev/authors/</link>
     <description>Recent content in Authors on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://bpetterborg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>External link test</title>
-      <link>http://bpetterborg.github.io/authors/external-link-test/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Ben Petterborg</title>
+      <link>https://www.ben-p.dev/authors/ben-petterborg/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
       
-      <guid>http://bpetterborg.github.io/authors/external-link-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jane Smith</title>
-      <link>http://bpetterborg.github.io/authors/jane-smith/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/authors/jane-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>http://bpetterborg.github.io/authors/john-doe/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://bpetterborg.github.io/authors/john-doe/</guid>
+      <guid>https://www.ben-p.dev/authors/ben-petterborg/</guid>
       <description></description>
     </item>
     
