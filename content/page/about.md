@@ -1,7 +1,7 @@
 ---
 title: About
 description:
-date: '2019-02-28'
+date: '2021-03-26'
 aliases:
   - about-us
   - about-hugo
