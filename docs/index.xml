@@ -1,71 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ben Petterborg</title>
-    <link>https://www.ben-p.dev/</link>
-    <description>Recent content on Ben Petterborg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Host Hugo w/ Github Pages</title>
-      <link>https://www.ben-p.dev/posts/gh_pages_hugo/</link>
-      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
-      
-      <guid>https://www.ben-p.dev/posts/gh_pages_hugo/</guid>
-      <description>Table of Contents     Introduction Getting Started Prepare your environment Building your site  Introduction    I had a bit of difficulty setting up Hugo to work with Github Pages, so I decided to document how I was able to make it work.
-Getting Started    This guide assumes you already have a Hugo site. If you do not, you can learn how to here.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.ben-p.dev/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/about/</guid>
-      <description>I&amp;rsquo;m a high school student studying software development, data science, systems administration, and other related stuff.
-What I do:
- Build, setup, and configure servers Install and configure networking equipment Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
-Thanks for reading!</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://www.ben-p.dev/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/contact/</guid>
-      <description>Email - ben@ben-p.dev</description>
-    </item>
-    
-    <item>
-      <title>First snippet</title>
-      <link>https://www.ben-p.dev/snippets/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/snippets/first/</guid>
-      <description>This content is in snippets/first/index.md
-pwd </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://www.ben-p.dev/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Second snippet</title>
-      <link>https://www.ben-p.dev/snippets/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/snippets/second/</guid>
-      <description>This content is in snippets/second/index.md
-ls -la </description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Ben Petterborg</title>
+        <link>https://www.ben-p.dev/</link>
+        <description>Recent content on Ben Petterborg</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Host Hugo w/ Github Pages</title>
+        <link>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</link>
+        <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+        
+        <guid>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</guid>
+        <description>&lt;img src="https://www.ben-p.dev/p/host-hugo-w/-github-pages/header.png" alt="Featured image of post Host Hugo w/ Github Pages" /&gt;&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#introduction&#34; &gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#getting-started&#34; &gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#prepare-your-environment&#34; &gt;Prepare your environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#building-your-site&#34; &gt;Building your site&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I had a bit of difficulty setting up Hugo to work with Github Pages,
+so I decided to document how I was able to make it work.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;This guide assumes you already have a Hugo site. If you do not,
+you can learn how to &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will also need a Github Pages repo setup, these are pretty simple,
+and you can use &lt;a class=&#34;link&#34; href=&#34;https://guides.github.com/features/pages/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this&lt;/a&gt; guide.&lt;/p&gt;
+&lt;p&gt;Both of these are pretty simple to setup, but if you have any questions,
+ask Google first, but if that doesn&amp;rsquo;t work, leave me an &lt;a class=&#34;link&#34; href=&#34;mailto:ben@ben-p.dev&#34; &gt;email&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;prepare-your-environment&#34;&gt;Prepare your environment&lt;/h2&gt;
+&lt;p&gt;After you&amp;rsquo;ve created your site repo, delete the contents. Once that&amp;rsquo;s done,
+head to wherever you wish to keep it on your local machine and clone it.&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;re done, &lt;code&gt;cd&lt;/code&gt; to it and create an empty file named &lt;code&gt;.nojekyll&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;touch .nojekyll
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;After that, go ahead and generate your site with Hugo. If you&amp;rsquo;ve already made your site and want to
+migrate to Github Pages, just copy the contents over to the new repo.&lt;/p&gt;
+&lt;p&gt;Now, we&amp;rsquo;ll need to edit the &lt;code&gt;config.toml&lt;/code&gt; to configure the site to be compatible with Github Pages.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;vim config.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add the following line, under the top set of variables&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-TOML&#34; data-lang=&#34;TOML&#34;&gt;&lt;span class=&#34;nx&#34;&gt;publishDir&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;docs&amp;#34;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Go to your Repo&amp;gt;Settings&amp;gt;Github Pages&amp;gt; and set &lt;code&gt;Source&lt;/code&gt; directory to &lt;code&gt;/docs&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;building-your-site&#34;&gt;Building your site&lt;/h2&gt;
+&lt;p&gt;Go to the folder where you have your site and run &lt;code&gt;hugo&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Now that your site has been built, add all, commit, and push to Github.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

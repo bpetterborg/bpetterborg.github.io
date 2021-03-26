@@ -5,6 +5,34 @@
     <link>https://www.ben-p.dev/categories/</link>
     <description>Recent content in Categories on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.ben-p.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github pages</title>
+      <link>https://www.ben-p.dev/categories/github-pages/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/categories/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://www.ben-p.dev/categories/hugo/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://www.ben-p.dev/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/categories/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
