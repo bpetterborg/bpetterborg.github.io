@@ -6,10 +6,10 @@ slug = "about"
 I'm a high school student studying software development,
 data science, systems administration, and other related stuff.
 
-What I Do:
+What I do:
 
 - Build, setup, and configure servers
-- Install and configure firewalls
+- Install and configure networking equipment
 - Manage hypervisors, and docker/k8s/rancher instances
 - Create usable software
 - Learn whatever technology is needed to complete a job
