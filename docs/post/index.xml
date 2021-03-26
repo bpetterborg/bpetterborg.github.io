@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ben Petterborg</title>
+    <link>https://www.ben-p.dev/post/</link>
+    <description>Recent content in Posts on Ben Petterborg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Host Hugo w/ Github Pages</title>
+      <link>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</guid>
+      <description>Table of Contents  Introduction Getting Started Prepare your environment Building your site  Introduction I had a bit of difficulty setting up Hugo to work with Github Pages, so I decided to document how I was able to make it work.
+Getting Started This guide assumes you already have a Hugo site. If you do not, you can learn how to here.
+You will also need a Github Pages repo setup, these are pretty simple, and you can use this guide.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://www.ben-p.dev/p/markdown-syntax-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://www.ben-p.dev/p/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

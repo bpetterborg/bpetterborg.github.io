@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Ben Petterborg</title>
-    <link>http://bpetterborg.github.io/tags/hugo/</link>
+    <link>https://www.ben-p.dev/tags/hugo/</link>
     <description>Recent content in hugo on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://bpetterborg.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo coder wiki</title>
-      <link>http://bpetterborg.github.io/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Host Hugo w/ Github Pages</title>
+      <link>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
       
-      <guid>http://bpetterborg.github.io/posts/hugo-coder-wiki/</guid>
-      <description></description>
+      <guid>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</guid>
+      <description>Table of Contents  Introduction Getting Started Prepare your environment Building your site  Introduction I had a bit of difficulty setting up Hugo to work with Github Pages, so I decided to document how I was able to make it work.
+Getting Started This guide assumes you already have a Hugo site. If you do not, you can learn how to here.
+You will also need a Github Pages repo setup, these are pretty simple, and you can use this guide.</description>
     </item>
     
   </channel>
