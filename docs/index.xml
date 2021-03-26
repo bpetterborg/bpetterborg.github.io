@@ -24,8 +24,8 @@ Getting Started    This guide assumes you already have a Hugo site. If you do no
       
       <guid>https://www.ben-p.dev/about/</guid>
       <description>I&amp;rsquo;m a high school student studying software development, data science, systems administration, and other related stuff.
-What I Do:
- Build, setup, and configure servers Install and configure firewalls Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
+What I do:
+ Build, setup, and configure servers Install and configure networking equipment Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
 Thanks for reading!</description>
     </item>
     
@@ -35,7 +35,7 @@ Thanks for reading!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.ben-p.dev/contact/</guid>
-      <description>Email - ben.petterborg@gmail.com</description>
+      <description>Email - ben@ben-p.dev</description>
     </item>
     
     <item>
