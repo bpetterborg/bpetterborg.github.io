@@ -1,1 +1,1 @@
-This is my website. It is built with Hugo (SSG), with the Stack theme.
+This is the repo for my old website.
